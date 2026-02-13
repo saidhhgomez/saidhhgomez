@@ -8,37 +8,42 @@ Hi! I'm Said, a Systems Engineer, passionate about software development and crea
 
 ### Skills
 1. **Programming Language**
-   - Java
-   - JavaScript
-   - Python
+   - Java (Standard Edition & Spring Boot)
+   - JavaScript (Node.js & React)
+   - Python (AI Fundamentals)
    - Dart (Flutter)
 
-2. **Development**
-   - HTML, CSS
-   - Node.js (Express)
-   - Consuming and integrating REST APIs
-   - JWT Authentication
-   - Web Sockets
+2. **Backend Development**
+   - Frameworks: Spring Boot, Node.js (Express)
+   - API Design: RESTful APIs, Endpoint exposure
+   - Security: JWT Authentication, Spring Security (concepts)
+   - Real-time: Web Sockets
 
-3. **Databases**
-   - SQL Server
-   - MySQL
-   - MongoDB
+3. **Frontend & Mobile Development**
+   - HTML5, CSS3
+   - React.js
+   - Flutter (Mobile)
+   - React Native
 
-4. **Tools**
-   - Git
-   - GitHub
+4. **Databases**
+   - Relational: SQL Server, MySQL
+   - Non-Relational: MongoDB
+   - Modeling: Entity-Relationship Diagrams (MER), Normalization
 
-5. **Working Methodologies**
+5. **Tools & DevOps**
+   - Version Control: Git & GitHub (GitFlow workflow)
+   - IDEs: IntelliJ IDEA, VS Code
+   - Testing: Postman
+   - AI Tools: AI-driven development and optimization
+
+6. **Working Methodologies**
+   - Business Processes: Bizagi (BPMN / Flowcharts)
+   - System Design: UML Diagrams, Software Architecture & Analysis
+   - Documentation: Database Documentation, Technical Specifications
+
+7. **Working Methodologies**
    - Scrum (Agile methodology)
    - Collaborative work and task management
-
-6. **Others**
-   - Fundamentals of Artificial Intelligence with Python
-   - Systems Architecture and Analysis
-   - UML Diagrams
-   - Database Modeling and Documentation
-   - Process Diagramming and Documentation
 
 ## Education
 - Systems Engineer - Universidad Autónoma Del Perú
